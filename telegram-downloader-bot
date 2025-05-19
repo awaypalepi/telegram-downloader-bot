@@ -1,0 +1,10 @@
+telegram-downloader-bot/
+│
+├── main.py
+├── tiktok.py
+├── requirements.txt
+│
+└── downloader/
+    ├── __init__.py
+    ├── tiktok.py
+    └── xhs.py
